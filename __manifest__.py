@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Stock move extra move origin fix",
     
     'summary': "",
   
@@ -15,7 +15,7 @@
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['stock'],
     
     # always loaded
     'data': [],

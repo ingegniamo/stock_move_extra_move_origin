@@ -1,13 +1,6 @@
-Title
+Stock move extra move origin fix
 ===============================
-Description
-
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
+Per preservare origin su sp in caso di done > richiesta
 
 
 Credits
@@ -21,4 +14,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>
